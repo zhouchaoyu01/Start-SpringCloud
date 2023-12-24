@@ -11,6 +11,7 @@
     <modules>
         <module>z11-cloud-sentinel-service8401</module>
         <module>z12-cloud-sentinel-ribbon-openFeign-fallback</module>
+        <module>z20-cloud-seata</module>
     </modules>
 
     <parent>
